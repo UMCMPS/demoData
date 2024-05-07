@@ -1,0 +1,49 @@
+sleep_quality,classification_option
+Very good,Alcohol
+Very good,Cannabis
+Very good,Exhausted
+Very good,Relaxed
+Very good,Medication
+Very good,nothing
+Quite good,Alcohol
+Quite good,Cannabis
+Quite good,Exhausted
+Quite good,Relaxed
+Quite good,Medication
+Quite good,nothing
+Not so good,Apnea
+Not so good,Anxiety
+Not so good,Illness
+Not so good,Interrupted
+Not so good,Insomnia
+Not so good,Noise
+Not so good,Overindulged
+Not so good,Pain
+Not so good,Restless
+Not so good,Stress
+Not so good,Uncertain
+Not so good,Uncomfortable
+Very bad,Apnea
+Very bad,Anxiety
+Very bad,Illness
+Very bad,Interrupted
+Very bad,Insomnia
+Very bad,Noise
+Very bad,Overindulged
+Very bad,Pain
+Very bad,Restless
+Very bad,Stress
+Very bad,Uncertain
+Very bad,Uncomfortable
+Moderate,Apnea
+Moderate,Anxiety
+Moderate,Illness
+Moderate,Interrupted
+Moderate,Insomnia
+Moderate,Noise
+Moderate,Overindulged
+Moderate,Pain
+Moderate,Restless
+Moderate,Stress
+Moderate,Uncertain
+Moderate,Uncomfortable
